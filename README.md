@@ -11,5 +11,7 @@ node server.js
 
 If you want to deploy your app to heroku use:
 
+```
 heroku create
 git push heroku master
+```
