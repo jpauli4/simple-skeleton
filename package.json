@@ -1,6 +1,6 @@
 {
-  "name": "simple-server",
-  "version": "0.0.0",
+  "name": "simple-skeleton",
+  "version": "0.0.1",
   "description": "Simple Server for Coding the Humanities Students",
   "main": "server.js",
   "dependencies": {
@@ -8,7 +8,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "Yeehaa",
