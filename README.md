@@ -9,7 +9,7 @@ The server can be started using:
 node server.js
 ```
 
-If you want to deploy your app to heroku use:
+If you want to deploy your app to heroku, use:
 
 ```
 heroku create
