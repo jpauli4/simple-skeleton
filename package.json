@@ -1,0 +1,16 @@
+{
+  "name": "simple-server",
+  "version": "0.0.0",
+  "description": "Simple Server for Coding the Humanities Students",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yeehaa",
+  "license": "MIT"
+}
